@@ -40,7 +40,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
  ![snake gif](https://github.com/Parthi6/Parthi6/blob/output/github-contribution-grid-snake.svg)
-  
+  https://github.com/parthi6/parthi6/blob/output/github-contribution-grid-snake.gif
   <br/><br/><br/>
 </div>
 <hr/>
