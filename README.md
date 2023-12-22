@@ -23,7 +23,7 @@
 💬 Ask me about **Javascript, UI Design, WordPress Design, Graphic Design**
 
  </div>
-
+<hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -33,6 +33,7 @@
 <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </div>
 <br><br>
+<hr/>
 ### Skills
 
 
