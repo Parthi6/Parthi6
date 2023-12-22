@@ -45,7 +45,7 @@
   <br/><br/><br/>
 </div>
 <hr/> -->
-<!--
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -53,7 +53,6 @@
   <img width=390 src="https://github-readme-stats-parthi6.vercel.app/api?username=parthi6&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 
-     -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <a href="http://www.github.com/Parthi6"><img src="https://github-readme-stats.vercel.app/api?username=Parthi6&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Parthi6's GitHub stats" /></a>
 
