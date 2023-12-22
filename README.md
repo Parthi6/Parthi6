@@ -1,7 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is There
-=============================================================================================================================
 
-Front end developer | UI designer | WordPress designer | Graphic designer
+
+Front-end developer | UI designer | WordPress designer | Graphic designer
 -------------------------------------------------------------------------
 
 I am Partheepan, pursuing a BSc Honours degree in Software Engineering at Sabaragamuwa University of Sri Lanka. I am keenly interested in the versatility of computing, and exploring various aspects of this dynamic field.
