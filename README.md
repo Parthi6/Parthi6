@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is There
 =============================================================================================================================
 
-Front-end developer | UI designer | WordPress designer | Graphic designer
+Front end developer | UI designer | WordPress designer | Graphic designer
 -------------------------------------------------------------------------
 
 I am Partheepan, pursuing a BSc Honours degree in Software Engineering at Sabaragamuwa University of Sri Lanka. I am keenly interested in the versatility of computing, and exploring various aspects of this dynamic field.
@@ -31,5 +31,3 @@ I am Partheepan, pursuing a BSc Honours degree in Software Engineering at Sabara
 <a href="http://www.github.com/Parthi6"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthi6&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Parthi6"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Parthi6&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Parthi6" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthi6&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
