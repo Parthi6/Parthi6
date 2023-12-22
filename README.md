@@ -5,15 +5,14 @@
 </h1>
 
 
-<h2>I am Partheepan, pursuing a BSc Honours degree in Software Engineering at Sabaragamuwa University of Sri Lanka. I am keenly interested in the versatility of computing, and exploring various aspects of this dynamic field.</h2>
+<h3>I am Partheepan, pursuing a BSc Honours degree in Software Engineering at Sabaragamuwa University of Sri Lanka. I am keenly interested in the versatility of computing, and exploring various aspects of this dynamic field.</h3>
 
-<h3 align="center">A passionate Front- end developer from Sri Lanka</h3>
+
 <br>
-* 🌍  I'm based in Sri Lanka
-* 🧠  I'm learning Laravel
-* 🤝  I'm open to collaborating on Projects
 
 <div align="center">
+
+🌍  I'm based in **Sri Lanka**
 
 🌱 I’m currently learning **Laravel, AWS**
 
