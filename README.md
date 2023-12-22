@@ -5,7 +5,7 @@
 </h1>
 
 
-<h4>I am Partheepan, pursuing a BSc Honours degree in Software Engineering at Sabaragamuwa University of Sri Lanka. I am keenly interested in the versatility of computing, and exploring various aspects of this dynamic field.
+<h4 align="center">I am Partheepan, pursuing a BSc Honours degree in Software Engineering at Sabaragamuwa University of Sri Lanka. I am keenly interested in the versatility of computing, and exploring various aspects of this dynamic field.
 </h4>
 
 
