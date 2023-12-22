@@ -36,6 +36,7 @@
 </div>
 <br><br>
 <hr/>
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -43,7 +44,7 @@
   https://github.com/parthi6/parthi6/blob/output/github-contribution-grid-snake.gif
   <br/><br/><br/>
 </div>
-<hr/>
+<hr/> -->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
