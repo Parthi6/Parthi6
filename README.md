@@ -16,7 +16,7 @@
 
 🌍  I'm based in **Sri Lanka**
 
-🌱 I’m currently learning **Laravel, AWS**
+🌱 I’m currently learning **ML**
 
 🤝  I'm open to collaborating on **Projects**
  
